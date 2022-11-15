@@ -4,5 +4,5 @@
 
 Vídeos sobre Rust 🦀
 
-![Capa do vídeo no Youtube](req.jpg)
+![Capa do vídeo no Youtube](Req.jpg)
 
