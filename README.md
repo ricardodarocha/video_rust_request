@@ -1,4 +1,4 @@
-# Acessando requisições Rest
+# Acessando requisições Rest - reqwest
 
 ## Se inscreva no meu canal no 💛[Youtube](https://youtu.be/obU_J7q1khI)  
 
